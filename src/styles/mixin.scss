@@ -1,0 +1,11 @@
+@mixin flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+$black: #20262A; 
+$dark_blue: #112D57;
+$gray: #5C5C5C;
+$yellow: #F3CD03;
+$blue: #00B6F0;
+$white: #FFFFFF;
